@@ -36,7 +36,7 @@ public class Demo1Application {
 
 	@PostConstruct
 	public void logActiveProfile() {
-		logger.info(" Application is running in '{}' environment", activeProfile.toUpperCase());
+		logger.info(" Application is running in '{}' envirogfgnment", activeProfile.toUpperCase());
 	}
 }
 
