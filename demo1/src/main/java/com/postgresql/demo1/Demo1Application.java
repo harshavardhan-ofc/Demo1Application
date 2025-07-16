@@ -30,6 +30,7 @@ public class Demo1Application {
 		logger.info("Application started");
 		logger.info(" bean created ");
 		System.out.println("check for changes");
+		logger.info("its a feature branch to test");
 
 	}
 
