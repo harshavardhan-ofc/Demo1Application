@@ -29,6 +29,7 @@ public class Demo1Application {
 		SpringApplication.run(Demo1Application.class, args);
 		logger.info("Application started");
 		logger.info(" bean created ");
+		System.out.println("check for changes");
 
 	}
 
