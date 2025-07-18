@@ -37,7 +37,7 @@ public class CollectionsController {
         hashset.add("Siddesh");
         hashset.add("gopi");
         hashset.add("ram");
-    System.out.println("getHashSet :"+ name);
+    System.out.println("getHashSet");
     int[] l = new int[] { 1,2,3};
         return hashset;
 
