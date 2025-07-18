@@ -26,6 +26,7 @@ public class JavaBasicContoller {
     @GetMapping("/getDatatypes")
     public String showVariables() {
         int number = 10;
+        System.out.println("changed one");
 
 //        String name="Java";(non primitive )
         float small = 12.22f;
