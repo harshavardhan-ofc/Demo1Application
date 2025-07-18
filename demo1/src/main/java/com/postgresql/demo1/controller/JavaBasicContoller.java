@@ -66,6 +66,7 @@ public class JavaBasicContoller {
         StringBuilder sb = new StringBuilder();
         for (int i = 1; i <= count; i++) {
             sb.append(i).append(" ");
+            System.out.println("hars");
         }
         return sb.toString();
     }
